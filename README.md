@@ -1,0 +1,5 @@
+
+
+```shell
+./kafka-standalone.sh
+```
